@@ -1,13 +1,8 @@
+--- 
 document:
-  name: Manuale Portale Utente - CRM
-  short-name: CRM-Portal
-  author: cittametropolitananapoli
-  description: |
-    Manuale d'uso interno del Portale Utente - CRM vtiger per la gestione
-    delle richieste di pubblicazione su sito istituzionale della Città Metropolitana di Napoli
-  license: CC-BY 4.0
-  audience: redattori dipendenti cmna
-  type: manuale d'uso
-  tags:
-      - crm
-      - portale utente
+  name: "Manuale Portale Utente - CRM"
+  description: "Manuale d'uso interno del Portale Utente - CRM vtiger per la gestione
+    delle richieste di pubblicazione su sito istituzionale della Città Metropolitana di Napoli."
+  tags: 
+    - "crm"
+    - "portale utente"
