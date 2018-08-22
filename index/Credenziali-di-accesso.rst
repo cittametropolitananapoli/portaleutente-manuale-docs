@@ -1,99 +1,98 @@
 Credenziali di accesso
 ======================
 
+.. highlights::
+
 L’utente interessato ad utilizzare il Portale Utenti deve effettuare la registrazione per ottenere le credenziali di accesso.
 
 Registrazione al Portale Utenti
 -------------------------------
 
 La registrazione può essere effettuata `Qui <http://www.cittametropolitana.na.it/group/intranet/credenziali-portale>`_
-
 previa autenticazione al portale Intranet
 
-|Credenziali intranet Portale Istituzionale Città Metropolitana di Napoli|
-
-Figura 2 – Credenziali Portale Intranet
+.. figure:: /media/credenziali.png
+   :name: Credenziali
+   :alt: Credenziali Portale Intranet
+   
+   Login Portale Intranet
 
 Il form è raggiungibile anche dall’area **Intranet** del sito istituzionale
-
 alla sezione “\ **Urp”** sotto la voce **“credenziali portale”**
 
-|WebForm registrazione credenziali Portale Utenti|
-
-Figura 3 – Web form richiesta credenziali
+.. figure:: /media/form.png
+   :name: Form
+   :alt: Web Form Richiesta Credenziali
+   :align: center
+   
+Web form richiesta credenziali
 
 Una volta completato il form e inviati i dati verrete reindirizzati su una pagina che vi confermerà l’avvenuta iscrizione
 
-|corretto invio dati per registrazione al Portale Utenti|
-
-Figura 4 – Esito positivo richiesta credenziali
-
+.. figure:: /media/conferma.png
+   :name: Conferma
+   :alt: Conferma richiesta credenziali andata a buon fine
+   
+richiesta credenziali andata a buon fine
+   
 Ricezione Credenziali
 ---------------------
 
 Dopo l’invio dei dati, verrà immediatamente recapitata una e-mail all’indirizzo indicato, con le credenziali utili per l’accesso al portale
 
-|Email invio credenziali Portale Utenti|
-
-Figura 5 – Email credenziali
+.. figure:: /media/email.png
+   :name: email
+   :alt: Email ricezione credenziali
+   :align: center
+   
+Email di invio password
 
 dall’email si potrà raggiungere direttamente il portale attraverso il link posto in basso “\ **Vai al Portale Utenti**\ ”.
+dettaglio
 
-|dettaglio credenziali Portale Utenti e link|
+.. figure:: /media/vai.png
+   :name: vai
+   :alt: Vai al Portale Utente
+   :align: center
 
-Figura - dettaglio email credenziali portale
+Vai al Portale Utente
 
 Cambio Password
 ---------------
 
 Una volta avuto accesso al portale è consigliato cambiare la password di accesso. In alto a destra sotto la voce recante il vostro indirizzo mail troverete un menù, scegliete la voce **“Mie preferenze”**
 
-|image8|\ |Mie Preferenze Portale Utenti|
+.. figure:: /media/miepreferenze.png
+   :name: preferenze
+   :alt: Mie preferenze dettaglio
+   :align: center
 
-Figura - Mie Preferenze e dettaglio
+Dettaglio voce "Mie Preferenze"
 
 Nella pagina che si aprirà troverete i campi **“vecchia password”** e **“nuova password”** da dover compilare.
 
-|Cambio Password Portale Utenti|
+.. figure:: /media/password.png
+   :name: password
+   :alt: cambio password
+   :align: center
 
-Figura - Cambio Password
+cambio password
 
 Password dimenticata
 --------------------
 
-|image11|\ |Password dimenticata|
+.. figure:: /media/dimenticata.png
+   :name: dimenticata
+   :alt: Password dimenticata
+   :align: center
 
-Figura - Password dimenticata
+Password dimenticata
 
 Per il recupero della password è necessario cliccare sul link **“password dimenticata?”** che troverete sotto il pannello di inserimento delle credenziali nella home page del portale utenti Da lì verrete reindirizzati su una pagina dove vi verrà chiesto di inserire l’indirizzo email e dopo aver cliccato sul pulsante invia password vi verrà recapitata una nuova password.
 
-.. |Credenziali intranet Portale Istituzionale Città Metropolitana di Napoli| image:: media/img4.png
-   :width: 3.30417in
-   :height: 2.30417in
-.. |WebForm registrazione credenziali Portale Utenti| image:: media/img5.png
-   :width: 6.27847in
-   :height: 3.96528in
-.. |corretto invio dati per registrazione al Portale Utenti| image:: media/img6.png
-   :width: 6.26944in
-   :height: 3.06111in
-.. |Email invio credenziali Portale Utenti| image:: media/img7.png
-   :width: 5.77361in
-   :height: 8.35625in
-.. |dettaglio credenziali Portale Utenti e link| image:: media/img8.png
-   :width: 6.26944in
-   :height: 1.77361in
-.. |image8| image:: media/img9.png
-   :width: 4.58264in
-   :height: 2.15625in
-.. |Mie Preferenze Portale Utenti| image:: media/img10.png
-   :width: 6.26944in
-   :height: 3.34792in
-.. |Cambio Password Portale Utenti| image:: media/img11.png
-   :width: 5.94792in
-   :height: 3.74792in
-.. |image11| image:: media/img12.png
-   :width: 3.45069in
-   :height: 2.54167in
-.. |Password dimenticata| image:: media/img13.png
-   :width: 3.87847in
-   :height: 2.53889in
+.. figure:: /media/recupero.png
+   :name: recupero
+   :alt: Recupero Password
+   :align: center
+
+Recupero Password

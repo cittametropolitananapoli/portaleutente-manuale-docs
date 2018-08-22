@@ -1,7 +1,12 @@
 Assistenza Portale Utenti
 ============================
 
-|banner assistenza Utenti|
+.. figure:: /media/banner.png
+   :name: banner
+   :alt: Banner Assistenza
+   :align: center
+
+Numeri Utili
 
 Per l’assistenza si possono contattare i riferimenti suindicati. Per agevolare l'assistenza e rispondere in maniera rapida alle eventuali perplessità è stato creato un gruppo su Workplace [1]_ basta richiedere `Qui
 <https://fb.me/g/yJjMAKNX/bG1ENLxK>`_ l’invito 
@@ -10,7 +15,3 @@ Nel gruppo si potranno trovare oltre ai documenti già presenti nel Portale Uten
 
 .. [1]
    `Cos’è Workplace di Facebook? <https://it-it.facebook.com/help/work/791147577614860>`__
-
-.. |banner assistenza Utenti| image:: media/img21.png
-   :width: 6.26944in
-   :height: 1.47847in
