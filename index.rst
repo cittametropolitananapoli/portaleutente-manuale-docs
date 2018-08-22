@@ -7,7 +7,7 @@ Manuale uso CRM Portale Utente
 .. highlights::  
 
 Questo documento contiene il manuale del Portale Utente, basato su CRM vtiger. Il Portale Utente è un servizio ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli. Il contratto di servizio collegato all'uso del Portale Utente è consultabile `Qui
-<http://http://contratto-di-servizio.readthedocs.io/it/latest/>`_.
+<https://docs-italia-staging.teamdigitale.it/cittametropolitananapoli/sla/portaleutente-sla-docs/it/master/>`_.
 
 
 |logo_urp| *Ufficio Per le Relazioni con il Pubblico*
