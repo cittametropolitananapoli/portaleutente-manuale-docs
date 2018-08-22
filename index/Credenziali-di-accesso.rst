@@ -6,7 +6,7 @@ L’utente interessato ad utilizzare il Portale Utenti deve effettuare la regist
 Registrazione al Portale Utenti
 -------------------------------
 
-La registrazione può essere effettuata all’indirizzo http://www.cittametropolitana.na.it/group/intranet/credenziali-portale
+La registrazione può essere effettuata `Qui <http://www.cittametropolitana.na.it/group/intranet/credenziali-portale>`_
 
 previa autenticazione al portale Intranet
 
