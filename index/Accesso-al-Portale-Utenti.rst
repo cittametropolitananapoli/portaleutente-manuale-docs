@@ -62,7 +62,7 @@ Figura 16 – Sezioni del Portale Utenti
 Nella sezione Documenti sarà possibile trovare il manuale del Portale Utente, il Contratto di Servizio SLA e le schede delle Faq in formato pdf stampabile, mentre nella sezione Faq troverete utili vademecum sui documenti accessibili. Entrambe le sezioni saranno aggiornate periodicamente anche grazie al contributo degli utenti stessi.
 
 .. [1]
-   Riguardo la scelta della priorità consultare il `Contratto di Servizio SLA <http://www.cittametropolitana.na.it/documents/10181/1945800/Contratto+di+servizio+V1.pdf/474d4d7b-6b89-4458-a8b9-8103dae513c2>`__
+   Riguardo la scelta della priorità consultare il `Contratto di Servizio SLA <https://docs-italia-staging.teamdigitale.it/cittametropolitananapoli/sla/portaleutente-sla-docs/it/master/>`__
 
 .. |Assistenza Utenti Portale Utente| image:: media/img14.png
    :width: 6.26944in
