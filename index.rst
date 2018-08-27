@@ -19,7 +19,6 @@ Questo documento contiene il manuale del Portale Utente, basato su CRM vtiger. I
 .. toctree::
   :maxdepth: 3
   :numbered:
-  :hidden:
 
   index/Introduzione.rst
   index/A-cosa-serve-il-Portale-Utenti.rst
